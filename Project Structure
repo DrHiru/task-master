@@ -1,0 +1,22 @@
+task-master/
+├── frontend/             # Frontend code (e.g., React)
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       ├── services/
+│       ├── styles/
+│       └── App.js
+├── backend/              # Backend code (e.g., Node.js with Express)
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── utils/
+│   └── server.js
+├── .gitignore            # Git ignore file
+├── LICENSE               # License file (e.g., MIT License)
+├── README.md             # Project README file
+├── CONTRIBUTING.md       # Contribution guidelines (optional)
+├── CODE_OF_CONDUCT.md    # Code of conduct (optional)
+└── docs/                 # Documentation files (optional)
+    └── installation.md
